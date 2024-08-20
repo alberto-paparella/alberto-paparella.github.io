@@ -64,6 +64,7 @@ Skills
 Publications
 ======
 Soon...
+
 <!-- <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul> -->
@@ -71,6 +72,7 @@ Soon...
 Talks
 ======
 Soon...
+
 <!-- <ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html  %}
 {% endfor %}</ul> -->
@@ -83,6 +85,7 @@ Soon...
   
 Service and leadership
 ======
-* Student Representative in the Joint Commitee (Commissione Paritetica) of the Department of
-  Mathematics and Computer Science at the University of Ferrara
-* Student Representative for Bachelor students at the University of Ferrara
+* 10.2019 - 9.2021: Student Representative in the Joint Commitee (Commissione Paritetica) of
+  the Department of Mathematics and Computer Science at the University of Ferrara
+* 10.2018 - 9.2021: Student Representative for Bachelor students at the University of
+  Ferrara
