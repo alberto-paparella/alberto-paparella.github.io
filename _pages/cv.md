@@ -17,48 +17,72 @@ Education
 
 Work experience
 ======
-<!-- * Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
+* 2024.03 - 2024.06: Teaching Assistant of Computer Architecture and Laboratory
+  * Department of Mathematics and Computer Science, University of Ferrara
+  * Duties included: introduction to the Assembly programming language for the MIPS
+    architecture through the MARS simulator and support for the course excercises
+  * Supervisor: Michele Favalli
+* 2023.02 - 2023.07: Intership at University of Bologna
+  * Department of Computer Science and Engineering, University of Bologna
+  * Duties includes: study of the application of Probabilistic Diffusion Models to
+    Precipitation Nowcasting
+  * Supervisor: Andrea Asperti
+* 2021.03 - 2021.09: Intership at Applied Computational Logic and Artificial Intelligence
+  Lab
+  * Department of Mathematics and Computer Science, University of Ferrara
+  * Duties included: development of an open source Laravel package for rule extraction from
+    MySQL databases, which has been applied for the creation of a rule-based system targeted
+    at physicians of the Menopause and Osteoporosis Center (CMO) in Ferrara for treatment
+    suggestion based on previous successful choices of the physician for similar patients 
+  * Supervisor: Guido Sciavicco
+* 2021.03 - 2021.06: Teaching Assistant of Computer Architecture and Laboratory
+  * Department of Mathematics and Computer Science, University of Ferrara
+  * Duties included: introduction to the Assembly programming language for the MIPS
+    architecture through the MARS simulator and support for the course excercises
+  * Supervisor: Daniele Bertozzi
+* 2020.10 - 2021.01: Teaching Assistant of Numerical Analysis and Laboratory
+  * Department of Mathematics and Computer Science, University of Ferrara
+  * Duties includes: introduction to the MATLAB programming language and support for the
+    course exercises
+  * Supervisor: Gaetano Zanghirati
   
 Skills
 ======
-<!-- * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Coding
+  * Julia
+  * Python
+  * MATLAB
+  * C
+* Artificial Intelligence
+  * Symbolic Machine Learning
+  * Interpretable AI
+* Logics and Mathematics
+  * Modal Logic
+  * Many-Valued Logic
+  * Automated Theorem Proving
 
 Publications
 ======
+Soon...
 <!-- <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul> -->
   
 Talks
 ======
+Soon...
 <!-- <ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html  %}
 {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
-<!-- <ul>{% for post in site.teaching reversed %}
+<ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul> -->
   
 Service and leadership
 ======
-<!-- * Currently signed in to 43 different slack teams -->
+* Student Representative in the Joint Commitee (Commissione Paritetica) of the Department of
+  Mathematics and Computer Science at the University of Ferrara
+* Student Representative for Bachelor students at the University of Ferrara

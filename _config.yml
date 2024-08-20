@@ -21,7 +21,7 @@ repository               : "alberto-paparella/alberto-paparella.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile-min.jpg"
   name             : "Alberto Paparella"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "PhD fellow in Mathematics interested in Logic and Computer Science"
