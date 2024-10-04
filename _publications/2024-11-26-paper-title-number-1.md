@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2023-11-26-paper-title-number-1
 excerpt: 'Theory and implementation of a Fitting''s style tableau system for Many-Valued Interval Temporal Logic.'
-date: 2024
+date: 2024-11-26
 venue: '31st International Symposium on Temporal Representation and Reasoning (TIME 2024), Montpellier, France, 28–30 October 2024.'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
