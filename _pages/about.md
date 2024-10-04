@@ -11,7 +11,8 @@ I am an Italian PhD fellow in Mathematics at the University of Ferrara, mostly i
 Many-Valued Logics, Automated Theorem Proving and Symbolic Machine Learning. I am also part 
 of the 
 [Applied Computational Logic and Artificial Intelligence Lab](https://aclai.unife.it/en/) 
-at the University of Ferrara.
+at the University of Ferrara. At the moment, I am also a visiting PhD student at the University
+of Queensland, in Brisbane, Australia.
 
 The main goal of my research is to improve Symbolic Machine Learning algorithms through the
 use (and relative study) of non-classical logic, with a double aim:
