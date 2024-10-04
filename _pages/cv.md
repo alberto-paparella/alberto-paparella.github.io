@@ -63,25 +63,23 @@ Skills
 
 Publications
 ======
-Soon...
 
-<!-- <ul>{% for post in site.publications reversed %}
+<ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul> -->
+{% endfor %}</ul>
   
 Talks
 ======
-Soon...
 
-<!-- <ul>{% for post in site.talks reversed %}
+<ul>{% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html  %}
-{% endfor %}</ul> -->
+{% endfor %}</ul>
   
-<!-- Teaching
+Teaching
 ======
 <ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul> -->
+{% endfor %}</ul>
   
 Service and leadership
 ======
