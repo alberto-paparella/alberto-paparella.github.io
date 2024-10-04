@@ -8,4 +8,4 @@ date: 2025-03-01 - 2025-06-30
 location: "Ferrara, Italy"
 ---
 
-Support for the course excercises
+Support for the course excercises.

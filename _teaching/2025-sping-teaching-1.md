@@ -8,4 +8,4 @@ date: 2025-03-01 - 2025-06-30
 location: "Ferrara, Italy"
 ---
 
-Introduction to the Assembly programming language for the MIPS architecture through the MARS simulator and support for the course excercises
+Introduction to the Assembly programming language for the MIPS architecture through the MARS simulator and support for the course excercises.
