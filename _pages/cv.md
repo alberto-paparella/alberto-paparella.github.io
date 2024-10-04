@@ -17,11 +17,6 @@ Education
 
 Work experience
 ======
-* 2024.03 - 2024.06: Teaching Assistant of Computer Architecture and Laboratory
-  * Department of Mathematics and Computer Science, University of Ferrara
-  * Duties included: introduction to the Assembly programming language for the MIPS
-    architecture through the MARS simulator and support for the course excercises
-  * Supervisor: Michele Favalli
 * 2023.02 - 2023.07: Intership at University of Bologna
   * Department of Computer Science and Engineering, University of Bologna
   * Duties includes: study of the application of Probabilistic Diffusion Models to
@@ -35,16 +30,6 @@ Work experience
     at physicians of the Menopause and Osteoporosis Center (CMO) in Ferrara for treatment
     suggestion based on previous successful choices of the physician for similar patients 
   * Supervisor: Guido Sciavicco
-* 2021.03 - 2021.06: Teaching Assistant of Computer Architecture and Laboratory
-  * Department of Mathematics and Computer Science, University of Ferrara
-  * Duties included: introduction to the Assembly programming language for the MIPS
-    architecture through the MARS simulator and support for the course excercises
-  * Supervisor: Daniele Bertozzi
-* 2020.10 - 2021.01: Teaching Assistant of Numerical Analysis and Laboratory
-  * Department of Mathematics and Computer Science, University of Ferrara
-  * Duties includes: introduction to the MATLAB programming language and support for the
-    course exercises
-  * Supervisor: Gaetano Zanghirati
   
 Skills
 ======
