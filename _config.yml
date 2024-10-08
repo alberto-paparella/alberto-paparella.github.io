@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0009-0007-1653-3660"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Alberto-Paparella-2
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -55,7 +55,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : https://www.instagram.com/ilpaps/
   lastfm           : # Username
   linkedin         : "alberto-paparella-640150274" # Username
   mastodon         : # URL
