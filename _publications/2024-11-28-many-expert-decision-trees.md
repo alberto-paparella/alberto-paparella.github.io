@@ -2,6 +2,7 @@
 title: "Many-Expert Decision Trees"
 collection: publications
 category: conferences
+status: accepted
 permalink: /publication/2024-11-28-many-expert-decision-trees
 excerpt: 'Taking inspiration from the literature fuzzy decision trees, and leveraging many-valued logics, we propose a novel, and more general variety of decision trees.'
 date: 2024-11-28 - 2024-11-29
