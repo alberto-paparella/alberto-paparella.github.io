@@ -2,9 +2,9 @@
 title: "Reasoning with many-valued interval temporal logic"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2024-11-26-reasoning-with-many-valued-interval-temporal-logic
+permalink: /talks/2024-11-28-reasoning-with-many-valued-interval-temporal-logic
 venue: "Australasian Association for Logic Conference 2024"
-date: 2024-11-26
+date: 2024-11-28
 location: "University of Sydney, Sydney, New South Wales, Australia"
 ---
 
