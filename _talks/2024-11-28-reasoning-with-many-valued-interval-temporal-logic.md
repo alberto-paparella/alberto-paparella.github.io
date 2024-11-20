@@ -6,6 +6,7 @@ permalink: /talks/2024-11-28-reasoning-with-many-valued-interval-temporal-logic
 venue: "Australasian Association for Logic Conference 2024"
 date: 2024-11-28
 location: "University of Sydney, Sydney, New South Wales, Australia"
+slidesurl: 'http://alberto-paparella.github.io/files/AAL24_presentation.pdf'
 ---
 
 [More information here](https://sites.google.com/view/aalogic/aal-conference-2024)
