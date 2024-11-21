@@ -18,12 +18,12 @@ Education
 
 Work experience
 ======
-* 2023.02 - 2023.07: Intership at University of Bologna
+* 2023.02 - 2023.07: Internship at University of Bologna
   * Department of Computer Science and Engineering, University of Bologna
   * Duties includes: study of the application of Probabilistic Diffusion Models to
     Precipitation Nowcasting
   * Supervisor: Andrea Asperti
-* 2021.03 - 2021.09: Intership at Applied Computational Logic and Artificial Intelligence
+* 2021.03 - 2021.09: Internship at Applied Computational Logic and Artificial Intelligence
   Lab
   * Department of Mathematics and Computer Science, University of Ferrara
   * Duties included: development of an open source Laravel package for rule extraction from
