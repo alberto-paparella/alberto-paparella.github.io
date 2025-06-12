@@ -2,9 +2,9 @@
 title: "Modal FLew-Algebra Satisfiability Through First-Order Translation"
 collection: talks
 type: "Conference talk"
-permalink: /talks/2025-07-XX-modal-flew-algebra-satisfiability-through-first-order-translation
+permalink: /talks/2025-07-21-modal-flew-algebra-satisfiability-through-first-order-translation
 venue: "Logic, Algebra, and Truth Degrees (LATD 2025)"
-date: 2025-07-XX
+date: 2025-07-21
 location: "University of Siena, Siena, Italy"
 <!-- slidesurl: -->
 ---
