@@ -9,7 +9,7 @@ redirect_from:
 
 I am an Italian PhD fellow in Mathematics at the University of Ferrara, Italy,
 interested in Many-Valued Multi-Modal Logics and their application to Symbolic
-Machine Learning. I am also part of the 
+Machine Learning and to Automated Reasoning. I am also part of the 
 [Applied Computational Logic and Artificial Intelligence Lab](https://aclai.unife.it/en/) 
 at the University of Ferrara. I was also visiting student at the University of
 Queensland, Australia, for two consecutive years (2024, 2025).
