@@ -6,7 +6,7 @@ permalink: /talks/2025-07-21-modal-flew-algebra-satisfiability-through-first-ord
 venue: "Logic, Algebra, and Truth Degrees (LATD 2025)"
 date: 2025-07-21
 location: "University of Siena, Siena, Italy"
-<!-- slidesurl: -->
+slidesurl: 'http://alberto-paparella.github.io/files/LATD25_presentation.pdf'
 ---
 
 Modal logics offer a valid treatment for temporal and spatial data, which are critical in modeling many real-world scenarios and, therefore, are becoming more popular by the day in artificial intelligence applications, specifically when dealing with symbolic machine learning. Some notable examples are [[1](#1)], [[2](#2)], introducing modal logics for treating interval temporal relations and topological (i.e., spatial) relations, respectively. However, practitioners handling temporal and spatial data typically encounter challenges, as sensing and discretizing signals that often introduce inaccuracies in the data. Fuzzy logics are renowned as a common approach to deal with uncertainty and unclear boundaries in the data. Furthermore, Melvin Fitting proposed in [[3](#3)] a many-valued approach leveraging Heyting algebras to tackle many-expert scenarios, another compelling application in artificial intelligence. In this talk, we want to present a framework that is general enough to treat modal many-valued logics, including Fitting's proposal, and can be endowed with reasoning tools suitable for real-world applications.
