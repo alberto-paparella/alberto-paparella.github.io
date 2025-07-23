@@ -9,7 +9,6 @@ location: "University of Sydney, Sydney, New South Wales, Australia"
 slidesurl: 'http://alberto-paparella.github.io/files/AAL24_presentation.pdf'
 ---
 
-[More information here](https://sites.google.com/view/aalogic/aal-conference-2024)
 [Check it on youtube](https://www.youtube.com/watch?v=Izod5EYytyM&t=9s)
 
 Unlike classical logic, which is grounded in the Boolean two-valued algebra, many-
