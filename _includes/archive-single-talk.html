@@ -42,8 +42,10 @@
       <p> <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.youtubeurl }}">Check it on youtube</a></p></p>
     {% elsif post.slidesurl %}
       <p> <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
+    {% elsif post.posterurl %}
+      <p> <a href="{{ post.posterurl }}">Download Poster</a></p></p>
     {% elsif post.youtubeurl %}
-      <p> <a href="{{ post.youtubeurl }}">Check it on youtube</a></p></p>
+      <p> <a href="{{ post.youtubeurl }}">Check it on Youtube</a></p></p>
     {% endif %}
   </article>
 </div>

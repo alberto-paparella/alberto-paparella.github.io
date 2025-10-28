@@ -8,7 +8,6 @@ excerpt: 'In this paper, we tackle the problem of assessing the ability of LLMs 
 of validity recognition.'
 date: 2025-08-27
 venue: '32nd International Symposium on Temporal Representation and Reasoning (TIME 2025), London, UK, 27-29 August 2025'
-# slidesurl:
 paperurl: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TIME.2025.4
 citation: 'Bellodi, Pietro, Casavecchia, Pietro, Paparella, Alberto, Sciavicco, Guido, and Stan, Eduard I. (2025). &quot;Assessing the (In)Ability of LLMs to Reason in Interval Temporal Logic.&quot; <i>32nd International Symposium on Temporal Representation and Reasoning (TIME 2025), London, UK, 27-29 August 2025</i>. 1(1).'
 ---

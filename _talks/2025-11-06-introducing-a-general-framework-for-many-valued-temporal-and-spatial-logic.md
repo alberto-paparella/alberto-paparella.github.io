@@ -9,6 +9,7 @@ date: 2025-11-06
 location: "University of Queensland, Brisbane, Queensland, Australia"
 slidesurl: 'http://alberto-paparella.github.io/files/AAL25_presentation.pdf'
 ---
+
 Reasoning with temporal and spatial information is crucial in many real-world ap-
 plications from different fields. In order to do so, many modal temporal and spatial
 logics have been proposed throughout the years, leveraging modal operators to treat
