@@ -6,8 +6,9 @@ permalink: /talks/2025-08-04-vector-space-embeddings-of-modal-logic-formulas
 venue: "36th European Summer School in Logic, Language and Information"
 date: 2025-08-04
 location: "Ruhr University Bochum"
-# slidesurl: 
 ---
+
+[Download poster](http://alberto-paparella.github.io/files/ESSLLI25_poster.pdf)
 
 Reasoning tasks over modal logics are notoriously difficult, comprising problems
 which are often semi-decidable. Hence, it is not rare for applications leveraging such tasks
