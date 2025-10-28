@@ -3,6 +3,7 @@ title: "Introducing a general framework for many-valued temporal and spatial log
 collection: talks
 type: "Conference talk"
 permalink: /talks/2025-11-06-reasoning-with-many-valued-interval-temporal-logic
+excerpt: "We aim to introduce a possible many-valued extension for well-known temporal and spatial logics based on the family of finite FLew-algebras, allowing for a unified treatment of both fuzzy logics and Heyting algebras, leveraging the notion of a many-valued linear order and allowing for the definition of a many-valued semantics of modal frames. This framework is also implemented as part of an open-source framework for representing, reasoning, and learning from structured and unstructured data, namely Sole.jl, serving as the foundation for reasoning and learning tools leveraging many-valued temporal and spatial logics."
 venue: "Australasian Association for Logic Conference 2024"
 date: 2025-11-06
 location: "University of Queensland, Brisbane, Queensland, Australia"

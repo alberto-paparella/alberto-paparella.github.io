@@ -3,6 +3,7 @@ title: "Reasoning with many-valued interval temporal logic"
 collection: talks
 type: "Conference talk"
 permalink: /talks/2024-11-28-reasoning-with-many-valued-interval-temporal-logic
+excerpt: "In this work, we introduce a tableau system for Many-Valued Halpern and Shoham’s interval temporal logic over some finite FLew -algebra."
 venue: "Australasian Association for Logic Conference 2024"
 date: 2024-11-28
 location: "University of Sydney, Sydney, New South Wales, Australia"

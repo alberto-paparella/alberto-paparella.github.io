@@ -3,6 +3,7 @@ title: "Modal FLew-Algebra Satisfiability Through First-Order Translation"
 collection: talks
 type: "Conference talk"
 permalink: /talks/2025-07-21-modal-flew-algebra-satisfiability-through-first-order-translation
+excerpt: "In this work, we provide an accessible and open-source algorithmic tool for (i) defining finite FLew-algebras, (ii) writing formulas in a specified FLew-algebra, and (iii) asking alpha-satisfiability and alpha-validity for a given value alpha in the algebra of the formula through a first-order translation and making use of a sat or a smt solver, such as z3."
 venue: "Logic, Algebra, and Truth Degrees (LATD 2025)"
 date: 2025-07-21
 location: "University of Siena, Siena, Italy"
