@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics, University of Ferrara, 2026 (expected)
-* Visiting Ph.D student, University of Queensland, 2024
+* Visiting Ph.D student, University of Queensland, 2024, 2025
 * M.S. in Computer Science, University of Bologna, 2023
 * B.S. in Computer Science, University of Ferrara, 2021
 
