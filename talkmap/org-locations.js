@@ -1,22 +1,37 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    " Conservatoire national des arts et m\u00e9tiers, Paris, France",
+    48.866783,
+    2.3554167
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "University of Sydney, Sydney, New South Wales, Australia",
+    -33.8889073,
+    151.1894111
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Siena, Italy",
+    43.167206,
+    11.467561
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "University of Queensland, Brisbane, Queensland, Australia",
+    -27.4981424,
+    153.0111536
+  ],
+  [
+    "Ruhr University Bochum, Bochum, Germany",
+    51.4441576,
+    7.2610046
+  ],
+  [
+    "University of the Witwatersrand, Johannesburg, South Africa",
+    -26.1888766,
+    28.0247912
+  ],
+  [
+    "Ferrara, Italy",
+    44.7667642,
+    11.827939
   ]
 ];

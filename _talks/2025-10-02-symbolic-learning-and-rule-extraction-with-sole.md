@@ -6,7 +6,7 @@ permalink: /talks/2025-10-02-symbolic-learning-and-rule-extraction-with-sole
 excerpt: "In this presentation, we will have a look at how Sole.jl works through a hands-on tutorial, emphatizing on its comprehensiveness and user-friendliness. This will also allow us to introduce two newcomers to the SOLE  ecosystem: ModalAssociationRules.jl, a package for mining association rules between instances, and SolePostHoc.jl, a package to extract, interpret and simplify sets of rules starting from a symbolic model."
 venue: "JuliaCon Local Paris 2025"
 date: 2025-10-02
-location: "Paris, France"
+location: " Conservatoire national des arts et métiers, Paris, France"
 slidesurl: http://alberto-paparella.github.io/files/JuliaConLocal25_presentation.pdf
 youtubeurl: https://www.youtube.com/watch?v=JVHeIdVPK8Y
 ---

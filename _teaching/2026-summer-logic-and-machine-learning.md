@@ -5,7 +5,7 @@ type: "Instructor"
 permalink: /teaching/2026-summer-logic-and-machine-learning
 venue: "University of Witwatersrand"
 date: 2026-01-12 - 2026-01-16
-location: "Johannesburgh, South Africa"
+location: "University of the Witwatersrand, Johannesburg, South Africa"
 ---
 
 Practical session on how to use the
