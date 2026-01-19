@@ -8,7 +8,7 @@ date: 2026-01-12 - 2026-01-16
 location: "University of the Witwatersrand, Johannesburg, South Africa"
 ---
 
-Practical session on how to use the
+Practical sessions on how to use the
 [Julia programming language](https://julialang.org/), and in particular the
 [Sole.jl](https://github.com/aclai-lab/Sole.jl) framework, to work with logic
 and symbolic learning.
