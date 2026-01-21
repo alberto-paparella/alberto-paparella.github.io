@@ -6,6 +6,7 @@ permalink: /teaching/2026-summer-logic-and-machine-learning
 venue: "University of Witwatersrand"
 date: 2026-01-12 - 2026-01-16
 location: "University of the Witwatersrand, Johannesburg, South Africa"
+materialsurl: 'https://github.com/aclai-lab/logic-and-machine-learning'
 ---
 
 Practical sessions on how to use the
