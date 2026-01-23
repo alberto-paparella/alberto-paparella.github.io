@@ -28,3 +28,11 @@ Committiees
 Journal Reviewing
 ======
 <a href="https://www.scimagojr.com/journalsearch.php?q=25620&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=25620" alt="SCImago Journal &amp; Country Rank"  /></a>
+
+University Service
+======
+* 10.2019 - 9.2021: Student Representative in the Joint Commitee (Commissione
+Paritetica) of the Department of Mathematics and Computer Science at the
+University of Ferrara
+* 10.2018 - 9.2021: Student Representative for Bachelor students at the
+University of Ferrara
