@@ -8,6 +8,7 @@ excerpt: 'In this paper, we tackle the problem of assessing the ability of LLMs 
 of validity recognition.'
 date: 2025-08-27
 venue: '32nd International Symposium on Temporal Representation and Reasoning (TIME 2025), London, UK, 27-29 August 2025'
+slidesurl: 'http://alberto-paparella.github.io/files/TIME25_presentation.pdf'
 paperurl: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TIME.2025.4
 citation: 'Bellodi, Pietro, Casavecchia, Pietro, Paparella, Alberto, Sciavicco, Guido, and Stan, Eduard I. (2025). &quot;Assessing the (In)Ability of LLMs to Reason in Interval Temporal Logic.&quot; <i>32nd International Symposium on Temporal Representation and Reasoning (TIME 2025), London, UK, 27-29 August 2025</i>. 1(1).'
 ---
@@ -31,3 +32,5 @@ problem in terms of formula length and modal depth of the problem. We benchmark 
 LLMs (Gemma 3 27b It, Llama 4 Maverick, DeepSeek Chat V3 release 0324, Qwen 3 32b, and Qwen
 3 235b) and show that, despite apparently impressive performance on algebraic or commonsense
 benchmarks, they falter on logically rigorous tasks.
+
+Thank you Pietro Bellodi and Pietro Casavecchia for the slides!
