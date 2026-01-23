@@ -7,7 +7,7 @@ permalink: /publication/2023-10-12-diffusion-generative-models-for-weather-forec
 excerpt: 'This thesis is dedicated to investigating the application of diffusion models in the realm of weather forecasting, with a specific focus on precipitation nowcasting.'
 date: 2023-10-12
 venue: 'Università di Bologna, Corso di Studio in Informatica [LM-DM270]'
-# slidesurl: ''
+slidesurl: 'http://alberto-paparella.github.io/files/UNIBO23_presentation.pdf'
 paperurl: 'https://amslaurea.unibo.it/id/eprint/29710/'
 citation: 'Paparella, Alberto (2023) Diffusion generative models for weather forecasting. [Laurea magistrale], Università di Bologna, Corso di Studio in Informatica [LM-DM270].'
 ---

@@ -7,6 +7,7 @@ permalink: /publication/2024-12-19-precipitation-nowcasting-with-generative-diff
 excerpt: 'In our study, we focus on a specific subset of the ERA-5 dataset, which includes hourly data pertaining to Central Europe from the years 2016 to 2021. Within this context, we examine the efficacy of diffusion models in handling the task of precipitation nowcasting, with a lead time of 1 to 3 hours.'
 date: 2024-12-19
 venue: 'Applied Intelligence'
+slidesurl: 'http://alberto-paparella.github.io/files/UNIBO23_presentation.pdf'
 paperurl: 'https://doi.org/10.1007/s10489-024-06048-y'
 citation: 'Asperti, Andrea, Merizzi, Fabio, Paparella, Alberto, Pedrazzi, Giorgio, Angelinelli, Matteo, and Colamonaco, Stefano. (2024). &quot;Precipitation nowcasting with generative diffusion models.&quot; <i>Applied Intelligence</i>. 55(1).'
 ---
