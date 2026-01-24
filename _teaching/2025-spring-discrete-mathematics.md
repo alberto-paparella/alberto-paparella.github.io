@@ -17,7 +17,7 @@ Course material (**beware**, course material is in **italian**):
 - [Esercizi relativi al capitolo 03: Sottospazi vettoriali; generatori; vettori linearmente indipendenti; basi; dimensione di un sottospazio; somma e somma diretta fra sottospazi.](https://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscreta03.pdf)
 - [Esercizi relativi al capitolo 04: Determinante (regola di Laplace) e sue proprietà; matrici invertibili; inversa di una matrice; rango.](https://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscreta04.pdf)
 - [Esercizi relativi al capitolo 05: Sistemi lineari; regola di Cramer; teorema di Rouchè–Capelli; sistemi a gradini.](https://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscreta05.pdf)
-- [Simulazione I parziale a.a. 2022-23](https://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscretaSimulazionePrimoParziale.pdf)
+- [Simulazione I parziale a.a. 2022-23.](https://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscretaSimulazionePrimoParziale.pdf)
 - [Esercizi relativi al capitolo 06: Applicazioni lineari.](https://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscreta06.pdf)
 - [Esercizi relativi al capitolo 07: Teorema generale di rappresentazione; cambiamento di base.](https://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscreta07.pdf)
 - [Esercizi relativi al capitolo 08: Autovalori e autovettori.](https://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscreta08.pdf)
