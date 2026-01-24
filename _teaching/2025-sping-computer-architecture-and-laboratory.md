@@ -8,4 +8,15 @@ date: 2025-03-01 - 2025-06-30
 location: "Ferrara, Italy"
 ---
 
-Introduction to the Assembly programming language for the MIPS architecture through the MARS simulator and support for the course excercises.
+Introduction to the Assembly programming language for the MIPS architecture through the MARS simulator and support for the course excercises. [UPDATE] Added course material.
+
+Course material (**beware**, course material is in **italian**):
+
+- [Ripasso su Algebra di Boole e di Commutazione. Esercizi sulla trasformazione di espressioni in forma SP.](https://alberto-paparella.github.io/files/TutoratoArchitetturaDegliElaboratori2025/TutoratoArchitetturaDegliElaboratori01/)
+- [Esercizi sulle mappe di Karnaugh e sulle reti logiche.](https://alberto-paparella.github.io/files/TutoratoArchitetturaDegliElaboratori2025/TutoratoArchitetturaDegliElaboratori02/)
+- [Installazione e tutorial sulle funzionalità di base del simulatore MARS.](https://alberto-paparella.github.io/files/TutoratoArchitetturaDegliElaboratori2025/TutoratoArchitetturaDegliElaboratori03/)
+- [Esercizi su FSM, conversioni di base, sommatori, decoder e multiplexer.](https://alberto-paparella.github.io/files/TutoratoArchitetturaDegliElaboratori2025/TutoratoArchitetturaDegliElaboratori04/)
+- [Syscall, cicli for e while, in Assembly.](https://alberto-paparella.github.io/files/TutoratoArchitetturaDegliElaboratori2025/TutoratoArchitetturaDegliElaboratori05/)
+- [Chiamate a funzione, gestione dello stack, funzioni innestate e funzioni ricorsive, in MIPS.](https://alberto-paparella.github.io/files/TutoratoArchitetturaDegliElaboratori2025/TutoratoArchitetturaDegliElaboratori06/)
+- [Esercizio sulla ricorsione in MIPS, esercizi di vecchie prove di laboratorio.](https://alberto-paparella.github.io/files/TutoratoArchitetturaDegliElaboratori2025/TutoratoArchitetturaDegliElaboratori07/)
+- [Esercizi presi da vecchie prove di laboratorio.](https://alberto-paparella.github.io/files/TutoratoArchitetturaDegliElaboratori2025/TutoratoArchitetturaDegliElaboratori08/)
