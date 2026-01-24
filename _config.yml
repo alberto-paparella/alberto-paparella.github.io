@@ -157,7 +157,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - files/TutoratoMatematicaDiscreta2025
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
