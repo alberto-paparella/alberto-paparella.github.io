@@ -14,7 +14,7 @@ Course material (**beware**, course material is in **italian**):
 
 - [Esercizi relativi al capitolo 01: Relazioni di equivalenza.]('http://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscreta01')
 - [Esercizi relativi al capitolo 02: Angolo fra due vettori; proiezione ortogonale di un vettore su una retta e su un piano; vettori paralleli, ortogonali e complanari.]('http://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscreta02')
-- [Esercizi relativi al capitolo 03: Sottospazi vettoriali; generatori; vettori linearmente indipendenti; basi; dimensione di un sottospazio; somma e somma diretta fra sottospazi.]'http://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscreta03'
+- [Esercizi relativi al capitolo 03: Sottospazi vettoriali; generatori; vettori linearmente indipendenti; basi; dimensione di un sottospazio; somma e somma diretta fra sottospazi.]('http://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscreta03')
 - [Esercizi relativi al capitolo 04: Determinante (regola di Laplace) e sue proprietà; matrici invertibili; inversa di una matrice; rango.]('http://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscreta04')
 - [Esercizi relativi al capitolo 05: Sistemi lineari; regola di Cramer; teorema di Rouchè–Capelli; sistemi a gradini.]('http://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscreta05')
 - [Simulazione I parziale a.a. 2022-23]('http://alberto-paparella.github.io/files/TutoratoMatematicaDiscreta2025/TutoratoMatematicaDiscretaSimulazionePrimoParziale.pdf')
