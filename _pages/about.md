@@ -26,13 +26,20 @@ My main supervisor is Prof.
 [Carles Noguera](https://sites.google.com/view/carlesnoguera/)
 (University of Siena).
 
+My Erdős's number is
+[4](https://mathscinet.ams.org/mathscinet/freetools/collab-dist?source=1655013&target=189017),
+and according to the
+[Mathematics Genealogy Project](https://www.mathgenealogy.org/index.php),
+I am one of the many academic descendants of
+[Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church).
+
 The main goal of my research is to improve Symbolic Machine Learning algorithms
 through the use (and relative study) of non-classical logic, with a double aim:
 * managing to better treat uncertainties and intricate relations in the data
 * enhancing Interpretable AI systems performance so that one does not have to
 give up model interpretation to get accurate outputs
 
-In the last two years I manly focused on the study of Many-Valued Multi-Modal
+In the last years, I mainly focused on the study of Many-Valued Multi-Modal
 Logics and their algebraic counterpart, contributing to the development of a
 reasoning tool based on the analytic tableaux technique to check for
 satisfiability and vadility of formulae in these logics (actually, a many-valued
