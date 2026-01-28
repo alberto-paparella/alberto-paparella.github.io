@@ -9,6 +9,7 @@ date: 2021-10-04
 venue: 'Università di Ferrara, Corso di Studio in Informatica [L-31]'
 slidesurl: 'http://alberto-paparella.github.io/files/UNIFE21_presentation.pdf'
 paperurl: 'http://alberto-paparella.github.io/files/UNIFE21_thesis.pdf'
+codeurl: 'https://github.com/aclai-lab/piton'
 citation: 'Paparella, Alberto (2021) A Laravel package for systematic construction of symbolic intelligent systems. [Laurea triennale], Università di Ferrara, Corso di Studio in Informatica [L-31].'
 ---
 
