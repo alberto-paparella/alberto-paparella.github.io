@@ -7,7 +7,7 @@ excerpt: "Reasoning tasks over modal logics are notoriously difficult, comprisin
 venue: "36th European Summer School in Logic, Language and Information"
 date: 2025-08-04
 location: "Ruhr University Bochum, Bochum, Germany"
-posterurl: http://alberto-paparella.github.io/files/ESSLLI25_poster.pdf
+posterurl: http://alberto-paparella.github.io/files/poster/ESSLLI25_poster.pdf
 ---
 
 Reasoning tasks over modal logics are notoriously difficult, comprising problems
