@@ -28,6 +28,7 @@ Committiees
 Journal Reviewing
 ======
 <a href="https://www.scimagojr.com/journalsearch.php?q=25620&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=25620" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=24286&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=24286" alt="SCImago Journal &amp; Country Rank"  /></a>
 
 University Service
 ======
