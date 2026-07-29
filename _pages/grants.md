@@ -22,6 +22,19 @@ Travel awards
 ](
     https://aslonline.org/
 )
+student travel award (200 USD) to attend the
+[
+    Topology, Algebra, and Categories in Logic (TACL) 2026 conference
+](
+    https://iphils.uj.edu.pl/tacl/
+)
+at the Jagiellonian University, Krakow, Poland, July 26-30, 2026
+
+* [
+    Association for Symbolic Logic
+](
+    https://aslonline.org/
+)
 student travel award (350 USD) to attend the
 [
     2025 Australian Association for Logic conference

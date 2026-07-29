@@ -1,5 +1,5 @@
 ---
-title: "Introducing a general framework for many-valued temporal and spatial logic."
+title: "Introducing a general framework for many-valued temporal and spatial logic"
 collection: talks
 type: "Conference talk"
 permalink: /talks/2025-11-06-reasoning-with-many-valued-interval-temporal-logic

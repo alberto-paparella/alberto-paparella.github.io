@@ -6,18 +6,23 @@ var addressPoints = [
   ],
   [
     "University of Sydney, Sydney, New South Wales, Australia",
-    -33.8889073,
+    -33.8889072,
     151.1894111
   ],
   [
     "Siena, Italy",
-    43.167206,
+    43.1672059,
     11.467561
   ],
   [
     "University of Queensland, Brisbane, Queensland, Australia",
-    -27.4981424,
+    -27.4981423,
     153.0111536
+  ],
+  [
+    "Jagiellonian University, Krakow, Poland",
+    50.0606586,
+    19.9304539
   ],
   [
     "Ruhr University Bochum, Bochum, Germany",

@@ -19,6 +19,11 @@ Organising
 
 Committiees
 ======
+* PC member - [
+    41st AAAI Conference on Artificial Intelligence (AAAI 2027) 
+](
+    https://aaai.org/conference/aaai/aaai-27/
+)
 * Area Chair - [
     37th European Summer School in Logic, Language and Information
 ](
