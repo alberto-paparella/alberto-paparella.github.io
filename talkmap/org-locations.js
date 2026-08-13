@@ -10,6 +10,11 @@ var addressPoints = [
     151.1894111
   ],
   [
+    "Johannes Gutenberg University, Mainz, Germany",
+    49.9920396,
+    8.2371107
+  ],
+  [
     "Siena, Italy",
     43.1672059,
     11.467561
