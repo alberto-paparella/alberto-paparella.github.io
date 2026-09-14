@@ -9,7 +9,7 @@ date: 2026-08-17
 venue: 'Journal of Artificial Intelligence Research'
 # slidesurl: ''
 # paperurl: '
-citation: 'Badia, Guillermo, Monego, Riccardo, Noguera, Carles, Paparella, Alberto, Sciavicco, Guido, and Stan, Eduard I. (2026). &quot;Reasoning in Many-Valued Multi-Modal Logic: A Uniform and General Approach.&quot; <i>Journal of Artificial Intelligence Research</i>. 55(1).'
+citation: 'Badia, Guillermo, Monego, Riccardo, Noguera, Carles, Paparella, Alberto, Sciavicco, Guido, and Stan, Eduard I. (2026). &quot;Reasoning in Many-Valued Multi-Modal Logic: A Uniform and General Approach.&quot; <i>Journal of Artificial Intelligence Research</i>. 1(1).'
 ---
 
 Multi-modal logic has found many applications in computer science, also providing a framework to model temporal and spatial information.
