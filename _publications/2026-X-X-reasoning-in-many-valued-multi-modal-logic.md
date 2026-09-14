@@ -5,7 +5,7 @@ category: manuscripts
 status: accepted
 permalink: /publication/2026-X-X-reasoning-in-many-valued-multi-modal-logic
 excerpt: 'We aim to introduce a possible many-valued extension for multi-modal logic based on the family of finite FLew -algebras, as well as a sound and complete reasoning system for such logic. In order to give a general framework for many-valued temporal and spatial logic, we introduce the notion of a many-valued linear order, allowing for the definition of a many-valued semantics of modal frames. The reasoning system is based on the analytic tableau technique and implemented as part of an open-source framework for representing, reasoning, and learning from structured and unstructured data.'
-# date: 2026-X-X
+date: 2026-08-17
 venue: 'Journal of Artificial Intelligence Research'
 # slidesurl: ''
 # paperurl: '
