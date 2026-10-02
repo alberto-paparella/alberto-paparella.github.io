@@ -3,12 +3,12 @@ title: "Reasoning in Many-Valued Multi-Modal Logic: A Uniform and General Approa
 collection: publications
 category: manuscripts
 status: accepted
-permalink: /publication/2026-X-X-reasoning-in-many-valued-multi-modal-logic
+permalink: /publication/2026-09-30-reasoning-in-many-valued-multi-modal-logic
 excerpt: 'We aim to introduce a possible many-valued extension for multi-modal logic based on the family of finite FLew -algebras, as well as a sound and complete reasoning system for such logic. In order to give a general framework for many-valued temporal and spatial logic, we introduce the notion of a many-valued linear order, allowing for the definition of a many-valued semantics of modal frames. The reasoning system is based on the analytic tableau technique and implemented as part of an open-source framework for representing, reasoning, and learning from structured and unstructured data.'
-date: 2026-08-17
+date: 2026-09-30
 venue: 'Journal of Artificial Intelligence Research'
 # slidesurl: ''
-# paperurl: '
+paperurl: 'https://www.jair.org/index.php/jair/article/view/23339'
 citation: 'Badia, Guillermo, Monego, Riccardo, Noguera, Carles, Paparella, Alberto, Sciavicco, Guido, and Stan, Eduard I. (2026). &quot;Reasoning in Many-Valued Multi-Modal Logic: A Uniform and General Approach.&quot; <i>Journal of Artificial Intelligence Research</i>. 1(1).'
 ---
 
